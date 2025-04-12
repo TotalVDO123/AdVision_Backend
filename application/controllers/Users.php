@@ -604,7 +604,7 @@ class Users extends Comman {
 			
 			$title="Live";
 			require_once APPPATH."libraries/FCMPushNotification.php";
-			$FCMPushNotification = new \BD\FCMPushNotification('AAAA6taNbw4:APA91bFqeAlrPgNUsVKgsJ8hiwOkry7WcDtjINQMOYhzspDVnnvKJpnHCtoy-bls5T8QUCc1gaAV4HYOqJJRyWKD0vViG5zMF-DJrwn4BAOhEcF2CRIA6FwccXkafsqZsGHAZQqK2h1-');
+			$FCMPushNotification = new \BD\FCMPushNotification('sqZsGHAZQqK2h1-');
 			
 
 			
